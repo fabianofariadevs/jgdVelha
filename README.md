@@ -1,2 +1,3 @@
 Meu primeiro Jogo...da Velha...
-adoro, lembra minha infância...onde não tinhamos muitas opções....rsrs
+Adoro, lembra minha infância...onde não tinhamos muitas opções....rsrs
+##Fiz ele com HTML, CSS e JavaScript.
